@@ -59,11 +59,11 @@ NotebookLM 可以適用在以下的情境:
 
 - 進入首頁: <a href="https://notebooklm.google.com/" target="_blank">notebooklm.google.com</a>  
 
-- 新增 **筆記本**
+- 新增 **筆記本**  
 
 ![11 NotebookLM_新增筆記本](pictures/11-NotebookLM_新增筆記本.png)  
 
-- 修改 **筆記本** 名稱, 並 **新增來源**
+- 修改 **筆記本** 名稱, 並 **新增來源**  
 
 ![12 NotebookLM_新增來源](pictures/12-NotebookLM_新增來源.png)  
 
@@ -93,6 +93,7 @@ NotebookLM 可以適用在以下的情境:
 
 **(1) 深入探索對話.**  
 - 產生 2位 主持人 的語音對話. 但有個限制, 即使來源是中文, 它還是只產生英文的對話. 或許可以期待一下, 後續可以作出中文對話的功能.  
+- **好消息** 2025.05 起, 已支援產生中文語音對話.  
 
 ![32 NotebookLM_自動生成記事_語音對話_1](pictures/32-NotebookLM_自動生成記事_語音對話_1.png)  
 ![32 NotebookLM_自動生成記事_語音對話_2](pictures/32-NotebookLM_自動生成記事_語音對話_2.png)  
@@ -251,3 +252,8 @@ NotebookLM 可以適用在以下的情境:
 * <a href="https://www.facebook.com/will.fans/posts/pfbid02QFvbMTTm3ck8nbYy479EzvwXx3oJ7JohyBmyG9doyza2qKPNwE5D2rAn1yGsLrBxl" target="_blank">(Will保哥) NotebookLM 總結, 洞見與價值</a>  
 
 * <a href="https://www.bnext.com.tw/article/81728/notebooklm-tutorial" target="_blank">(數位時代) NotebookLM教學｜NotebookLM是什麼？如何快速消化大量文本、生成摘要？</a>  
+
+* <a href="https://www.youtube.com/watch?v=C6XS8WM_Ias" target="_blank">(雲云工作室) (Youtube)  NotebookLM 語音轉文字逐字稿</a>  
+> 2025.05 起, 已支援產生 中文語音 對話
+
+
